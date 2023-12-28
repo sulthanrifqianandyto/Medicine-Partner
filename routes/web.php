@@ -40,3 +40,26 @@ Route::group(['prefix'=>'admin','middleware'=>['auth'],'as'=>'admin.'],function(
 });
 
 
+Route::get('/home', function () {
+    return view('home');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/profil', function () {
+    return view('profil');
+});
+
+Route::get('/store', function () {
+    return view('store');
+});
+
+Route::get('/ubahprofil', function () {
+    return view('ubahprofil');
+});
