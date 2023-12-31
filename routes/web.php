@@ -63,3 +63,35 @@ Route::get('/store', function () {
 Route::get('/ubahprofil', function () {
     return view('ubahprofil');
 });
+
+Route::get('/detail-obat', function () {
+    return view('detail-obat');
+});
+
+Route::get('/dikemas', function () {
+    return view('dikemas');
+});
+
+Route::get('/keranjang', function () {
+    return view('keranjang');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/pembayaran', function () {
+    return view('pembayaran');
+});
+
+Route::get('/riwayat-pemesanan', function () {
+    return view('riwayat-pemesanan');
+});
+
+Route::get('/selesai', function () {
+    return view('selesai');
+});
+
+Route::get('/sign', function () {
+    return view('sign');
+});

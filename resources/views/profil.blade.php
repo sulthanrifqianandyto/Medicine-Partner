@@ -27,7 +27,7 @@
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-custom-color-1 u-header u-header" id="sec-7476"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="http://127.0.0.1:8000/home" class="u-image u-logo u-image-1" data-image-width="1280" data-image-height="1280">
           <img src="images/98c986fdb2327e5ae795d7471da1f5621834e9ef0004b189c8624d83f44c6c3e715f85c561e9fbd994f0234c176d82ac3f1cf90b08d768334629f5_1280.png" class="u-logo-image u-logo-image-1">
-        </a><span class="u-file-icon u-icon u-icon-1"><a href="http://127.0.0.1:8000/home"><img src="images/54476.png" alt=""></a></span>
+        </a><span class="u-file-icon u-icon u-icon-1"><a href="http://127.0.0.1:8000/riwayat-pemesanan"><img src="images/54476.png" alt=""></a></span>
       </div></header>
     <section class="u-clearfix u-custom-color-1 u-section-1" id="sec-5a34">
       <div class="u-clearfix u-sheet u-sheet-1">

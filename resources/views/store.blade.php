@@ -148,7 +148,8 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-1 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-1 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+              </a>
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-2" data-product-id="5">
@@ -161,7 +162,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->24.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-2 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-2 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-3" data-product-id="4">
@@ -174,7 +175,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->19.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-3 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-3 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-4">
@@ -187,7 +188,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-4 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-4 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-5">
@@ -200,7 +201,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-5 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-5 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-6">
@@ -213,7 +214,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-6 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-6 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-7">
@@ -226,7 +227,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-7 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-7 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-8">
@@ -239,7 +240,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-8 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-8 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-9">
@@ -252,7 +253,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-9 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-9 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-10">
@@ -265,7 +266,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-10 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-10 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-11">
@@ -278,7 +279,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-11 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-11 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
             <!--product_item--><div class="u-align-center u-container-style u-products-item u-repeater-item u-white u-repeater-item-12">
@@ -291,7 +292,7 @@
                     <div class="u-price u-text-palette-2-base" style="font-size: 1.25rem; font-weight: 700;"><!--product_regular_price_content-->17.000<!--/product_regular_price_content--></div><!--/product_regular_price-->
                   </div>
                 </div><!--/product_price--><!--product_button--><!--options_json--><!--{"clickType":"buy-now","content":"BELI"}--><!--/options_json-->
-                <a href="" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-12 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
+                <a href="http://127.0.0.1:8000/detail-obat" class="u-border-2 u-border-grey-25 u-btn u-btn-rectangle u-button-style u-none u-product-control u-text-body-color u-btn-12 u-dialog-link u-payment-button" data-product-button-click-type="buy-now" data-animation-name="customAnimationIn" data-animation-duration="1000" data-product-id=""><!--product_button_content-->BELI<!--/product_button_content--></a><!--/product_button-->
               </div>
             </div><!--/product_item-->
           </div>
@@ -328,7 +329,7 @@
   width: 570px;
   min-height: 578px;
   height: auto;
-  box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 0px 8px 0px rgba(8, 227, 125, 0.2);
   margin: 60px auto;
 }
 
