@@ -43,9 +43,9 @@
             <div class="u-social-icons u-spacing-10 u-social-icons-1">
               <a class="u-social-url" href="http://127.0.0.1:8000/profil"><span class="u-file-icon u-icon u-social-facebook u-social-icon u-icon-1"><img src="images/3033143.png" alt=""></span>
               </a>
-              <a class="u-social-url" href=""><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/1170678.png" alt=""></span>
+              <a class="u-social-url" href="http://127.0.0.1:8000/keranjang"><span class="u-file-icon u-icon u-social-icon u-social-twitter u-icon-2"><img src="images/1170678.png" alt=""></span>
               </a>
-              <a class="u-social-url" href=""><span class="u-file-icon u-icon u-social-icon u-social-instagram u-icon-3"><img src="images/1611154.png" alt=""></span>
+              <a class="u-social-url" href="http://127.0.0.1:8000/riwayat-pemesanan"><span class="u-file-icon u-icon u-social-icon u-social-instagram u-icon-3"><img src="images/1611154.png" alt=""></span>
               </a>
             </div>
             <form action="#" method="get" class="u-border-1 u-border-black u-expanded-width-xs u-search u-search-right u-search-1">

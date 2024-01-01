@@ -36,7 +36,7 @@
         </div>
         <a href="http://127.0.0.1:8000/store" class="u-file-icon u-icon u-icon-4"><img src="images/189254.png" alt=""></span>
         </a>
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="275" data-image-height="183">
+        <a href="http://127.0.0.1:8000/home" class="u-image u-logo u-image-1" data-image-width="275" data-image-height="183">
           <img src="images/fajar.jpeg" class="u-logo-image u-logo-image-1">
         </a>
         <div class="u-container-style u-group u-shape-rectangle u-group-2">

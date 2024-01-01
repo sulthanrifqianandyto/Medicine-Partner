@@ -6,6 +6,7 @@
     <meta name="description" content="">
     <title>Detail obat</title>
     <link rel="stylesheet" href="css/nicepage2.css" media="screen">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 <link rel="stylesheet" href="css/Detail-obat.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery2.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="js/nicepage2.js" defer=""></script>
@@ -24,6 +25,7 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput2/"></head>
   <body data-path-to-root="./" data-include-products="true" class="u-body u-palette-1-light-3 u-xl-mode" data-lang="en">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <section class="u-clearfix u-section-1" id="sec-50c4">
       <div class="u-clearfix u-sheet u-sheet-1"><!--product--><!--product_options_json--><!--{"source":""}--><!--/product_options_json--><!--product_item-->
         <div class="u-container-style u-expanded-width u-product u-product-1" data-product-id="2">
@@ -46,6 +48,8 @@
                 <p class="u-align-left u-text u-text-6">Coriandri fructus 17mg, centella herba 35mg, imperatae rhizoma 14mg, amomi fructus 28mg.</p>
                 <p class="u-align-left u-text u-text-7">Manfaat</p>
                 <p class="u-align-left u-text u-text-8">Meringankan gatal gatal</p>
+                <p><a class="btn btn-primary"class="btn btn-primary" href="http://127.0.0.1:8000/keranjang" role="button">KERANJANG</a>
+                <a class="btn btn-primary"class="btn btn-primary" href="http://127.0.0.1:8000/pembayaran" role="button">BELI</a></p>
               </div>
             </div><!--product_gallery--><!--options_json--><!--{"maxItems":""}--><!--/options_json-->
             <div class="u-expanded-width-xs u-gallery u-layout-grid u-lightbox u-no-transition u-product-control u-show-text-none u-thumbnails-position-left u-gallery-1" id="carousel-c3f4">
@@ -58,13 +62,7 @@
                 </div><!--/product_gallery_item-->
               </div>
             </div><!--/product_gallery--><!--product_button--><!--options_json--><!--{"clickType":"go-to-page","content":"keranjang"}--><!--/options_json-->
-            <a href="http://127.0.0.1:8000/keranjang" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-product-control u-btn-1 u-dialog-link u-payment-button" data-product-button-click-type="go-to-page" data-product-id="">
-              <!--product_button_content-->keranjang<!--/product_button_content-->
-          </a>
-          
-          <a href="http://127.0.0.1:8000/home" class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-product-control u-btn-2 u-dialog-link u-payment-button" data-product-button-click-type="go-to-page" data-product-id="">
-              <!--product_button_content-->beli<!--/product_button_content-->
-          </a>
+
           
             <div class="u-product-control u-product-price u-product-price-1">
               <div class="u-price-wrapper u-spacing-10"><!--product_old_price-->

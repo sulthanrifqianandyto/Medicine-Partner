@@ -27,7 +27,7 @@
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
     <section class="u-clearfix u-palette-1-light-2 u-section-1" id="sec-5ecd">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-text u-text-default u-text-palette-2-base u-text-1">Login sebagai apotek ? </p><span class="u-file-icon u-icon u-icon-1"><img src="images/189254.png" alt=""></span>
+        <p class="u-text u-text-default u-text-palette-2-base u-text-1">Login sebagai apotek ? </p></span>
         <div class="u-align-center u-border-20 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-container-style u-custom-border u-group u-radius-46 u-shape-round u-white u-group-1">
           <div class="u-container-layout u-valign-middle-xs u-container-layout-1">
             <h2 class="u-text u-text-default u-text-palette-1-base u-text-2">Login</h2>
@@ -48,8 +48,8 @@
                 <input type="hidden" value="" name="recaptchaResponse">
               </form>
             </div>
-            <a href="https://nicepage.best" class="u-border-1 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-login-control u-login-forgot-password u-none u-text-palette-1-base u-btn-2">Belum memilik akun ?</a>
-            <a href="https://nicepage.best" class="u-border-1 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-login-control u-login-forgot-password u-none u-text-palette-2-base u-btn-3">Daftar ?</a>
+            <a href="http://127.0.0.1:8000/sign" class="u-border-1 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-login-control u-login-forgot-password u-none u-text-palette-1-base u-btn-2">Belum memilik akun ?</a>
+            <a href="http://127.0.0.1:8000/sign" class="u-border-1 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-btn u-button-style u-login-control u-login-forgot-password u-none u-text-palette-2-base u-btn-3">Daftar ?</a>
           </div>
         </div>
       </div>

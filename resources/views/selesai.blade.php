@@ -34,7 +34,7 @@
           <div class="u-container-layout">
             <h2 class="u-text u-text-default u-text-1">Pesanan Saya</h2>
           </div>
-        </div><span class="u-file-icon u-icon u-icon-2"><img src="images/189254.png" alt=""></span>
+        </div><a href="http://127.0.0.1:8000/riwayat-pemesanan" class="u-file-icon u-icon u-icon-2"><img src="images/189254.png" alt=""></a>
         <h3 class="u-custom-font u-font-ubuntu u-text u-text-default u-text-palette-1-light-1 u-text-2">Selesai</h3>
         <h3 class="u-text u-text-black u-text-default u-text-3">Dikemas</h3>
       </div></header>

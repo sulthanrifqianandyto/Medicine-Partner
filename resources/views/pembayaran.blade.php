@@ -99,6 +99,7 @@
   <body>
 
   <div class="container">
+    <a href="http://127.0.0.1:8000/keranjang" type="button" class="btn-close" aria-label="Close"></a>
     <ul class="product-list" id="productList">
       <li class="product-item">
         <div class="product-name">Sakatonik</div>
